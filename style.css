@@ -1,1 +1,8 @@
-body { background-color: #777; }
+
+body { 
+    background-color: #eee; 
+}
+
+main {
+    max-width: 1000px;
+}
