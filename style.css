@@ -39,7 +39,7 @@ main article {
     background: linear-gradient(127deg, #d1e6fe, #f5d0ff);
     padding: 1.5em 2em;
     border-radius: 1.6em;
-    box-shadow: 0 0 5em rgba(55, 43, 207, 0.26);
+    border: 1px solid #fff;
 }
 
 main article p {
