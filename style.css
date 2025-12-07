@@ -2,15 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 html, body { 
-    height: 100%;
     margin: 0;
     box-sizing: border-box;
 }
 
 body {
     display: flex;
+    min-height: 100vh;
     flex-direction: column;
-    background: linear-gradient(135deg, #eee, #def); 
+    background: linear-gradient(to bottom, #fff, #def, #def, #fff); 
     font-family: "Open Sans", sans-serif;
 }
 
@@ -39,7 +39,6 @@ main article {
     background: linear-gradient(127deg, #d1e6fe, #f5d0ff);
     padding: 1.5em 2em;
     border-radius: 1.6em;
-    border: 1px solid #fff;
 }
 
 main article p {
