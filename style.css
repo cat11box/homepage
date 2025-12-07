@@ -3,6 +3,10 @@ body {
     background-color: #eee; 
 }
 
+header {
+    text-align: center;
+}
+
 main {
     display: flex;
 }
