@@ -5,6 +5,7 @@ body {
 
 header {
     text-align: center;
+    margin: 1em;
 }
 
 main {
@@ -13,5 +14,5 @@ main {
 
 main article {
     max-width: 1000px;
-    margin: 5em auto;
+    margin: 3em auto;
 }
