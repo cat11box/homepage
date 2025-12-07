@@ -4,5 +4,10 @@ body {
 }
 
 main {
+    display: flex;
+}
+
+main article {
     max-width: 1000px;
+    margin: 5em auto;
 }
