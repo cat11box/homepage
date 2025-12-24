@@ -21,9 +21,9 @@ header {
 h1 {
     text-align: center;  
     font-weight: normal;
-    margin: 0 0 1em;
+    margin: 1em 0 1.5em;
     color: rgb(86, 71, 89);
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 main {
@@ -32,7 +32,7 @@ main {
     color: #333;
     background-image: url(https://wbfox.ru/imgs/fox-logo-pwa-trim.png);
     background-repeat: no-repeat;
-    background-position: 50% 0;
+    background-position: 50% 50%;
     background-size: 70%;    
     width: 80vw;
     max-width: 1000px;
@@ -41,11 +41,11 @@ main {
 
 main article {
     backdrop-filter: blur(7px);
-    margin: 12vw 0 0;
-    background: linear-gradient(127deg, #d1e6febb, #f5d0ffbb);
+    margin: 0;
+    background: linear-gradient(127deg, #d1e6fecc, #f5d0ffcc);
     padding: 1.5em 2em;
-    border-radius: 1.6em;
-    box-shadow: 0 0 1em #2222;
+    border-radius: 2.6em;
+    box-shadow: 0 0 1em #2227;
 }
 
 main article p {
