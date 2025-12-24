@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    height: 3em;
+    height: 2em;
     min-height: 2em;
 }
 
@@ -60,6 +60,6 @@ main article a {
 }
 
 footer {
-    height: 3em;
+    height: 2em;
     min-height: 2em;
 }
