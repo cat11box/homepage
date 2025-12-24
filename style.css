@@ -15,14 +15,14 @@ body {
 }
 
 header {
-    text-align: center;  
+    height: 3em;
+    min-height: 2em;
 }
 
 h1 {
     text-align: center;  
     font-weight: normal;
-    margin: 1em auto;
-    width: 70vw;
+    margin: 0 0 1em;
     color: rgb(86, 71, 89);
     font-size: 1.5em;
 }
